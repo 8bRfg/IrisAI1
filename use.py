@@ -36,7 +36,7 @@ def predict(sl,sw,pl,pw):
             <p>Petal Length:{pl} </p>
             <p>Petal Width:{pw} </p>
             <p>Predicted class: {iris.target_names[predicted_class][0]}</p>
-            <p><a href= "../" >Назад</a></p>
+            <p><a href= "../" >Back</a></p>
         </body>
         </html>""")
     return response_html
