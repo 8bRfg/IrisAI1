@@ -1,6 +1,7 @@
 # IrisAI1
 open Powershell in directory and then copy and paste all these commands into terminal (on last command there will be needed to press Enter to start the aplication)
 @@
+
     python -m venv .venv
 
     .venv\Scripts\Activate.Ps1
