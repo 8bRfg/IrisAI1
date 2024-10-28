@@ -10,3 +10,6 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 uvicorn use:app
+
+
+then site is hosted at 127.0.0.1:8000
